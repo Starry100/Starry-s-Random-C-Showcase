@@ -2,6 +2,9 @@
 #define STUDENTINFORM_H
 #include <stdio.h>
 
+
+// Contains all the functions needed for main
+
 typedef struct
 {
    char course[16];
